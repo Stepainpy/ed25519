@@ -1,0 +1,5 @@
+bin/
+lib/
+
+tests/tv/*.txt
+!tests/tv/verify.txt
