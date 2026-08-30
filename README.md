@@ -5,6 +5,8 @@
 
 Implementation of EdDSA on Ed25519.
 
+Source: [RFC 8032](https://datatracker.ietf.org/doc/html/rfc8032)
+
 ## Documentation
 
 All functions that return a value return `0` upon success/, nonzero value otherwise.
